@@ -1,0 +1,28 @@
+{
+	"Seti_SB_bright": false,
+	"Seti_heading_font_12": true,
+	"Seti_no_blue_bar": true,
+	"Seti_tab_font_12": false,
+	"Seti_tabs_small": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
+	"font_face": "Inconsolata",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"overlay_scroll_bars": "enabled",
+	"status_bar_brighter": false,
+	"tabs_padding_small": true,
+	"tabs_small": true,
+	"theme": "Seti_orig.sublime-theme",
+	"word_wrap": true
+}

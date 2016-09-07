@@ -1,0 +1,8 @@
+{
+    "arduino_ide_path": "/usr/share/arduino", 
+    "lang_id": "en", 
+    "serial_port": "/dev/ttyACM0", 
+    "sketchbook_path": "/home/jordan/Arduino", 
+    "target_board_id": "ide.arduino.avr.yun", 
+    "target_programmer_id": "ide.arduino.avr.avrisp"
+}

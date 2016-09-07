@@ -1,0 +1,19 @@
+[
+    {
+        "caption": "Arduino", 
+        "children": [
+            {
+                "caption": "Serial Port", 
+                "children": [
+                    {
+                        "caption": "None", 
+                        "command": "none_command"
+                    }
+                ], 
+                "id": "serial_port"
+            }
+        ], 
+        "id": "arduino", 
+        "mnemonic": "A"
+    }
+]

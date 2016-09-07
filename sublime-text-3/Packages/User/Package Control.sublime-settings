@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Android",
+		"AutoFileName",
+		"Bison",
+		"BracketHighlighter",
+		"C++ Completions",
+		"CLIPS Rules",
+		"Color Highlighter",
+		"ColorPicker",
+		"jQuery",
+		"JSCS-Formatter",
+		"JSHint",
+		"LaTeXTools",
+		"Package Control",
+		"PackageResourceViewer",
+		"Scala Syntax",
+		"Seti_UI",
+		"Seti_UX",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-chktex",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-pyflakes",
+		"Theme - Afterglow",
+		"Theme - itg.flat",
+		"Theme - SodaSeti",
+		"Theme - Spacegray",
+		"Themr",
+		"TodoReview"
+	],
+	"repositories":
+	[
+		"https://github.com/gepd/Stino/tree/new-stino",
+		"https://github.com/koizuss/sublime-gradle"
+	]
+}

@@ -1,0 +1,111 @@
+[
+    {
+        "caption": "Arduino", 
+        "children": [
+            {
+                "caption": "Sketchbook", 
+                "children": [
+                    {
+                        "args": {
+                            "sketch_path": "/home/jordan/Arduino/AES"
+                        }, 
+                        "caption": "AES", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/jordan/Arduino/aesDone"
+                        }, 
+                        "caption": "aesDone", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/jordan/Arduino/Blink2"
+                        }, 
+                        "caption": "Blink2", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "caption": "GPS", 
+                        "children": [
+                            {
+                                "args": {
+                                    "sketch_path": "/home/jordan/Arduino/GPS/AES"
+                                }, 
+                                "caption": "AES", 
+                                "command": "open_sketch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/jordan/Arduino/GPSDev"
+                        }, 
+                        "caption": "GPSDev", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/jordan/Arduino/GSM"
+                        }, 
+                        "caption": "GSM", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/jordan/Arduino/gsm2"
+                        }, 
+                        "caption": "gsm2", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/jordan/Arduino/LOCUS_dump"
+                        }, 
+                        "caption": "LOCUS_dump", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/jordan/Arduino/sketch_jun15a"
+                        }, 
+                        "caption": "sketch_jun15a", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/jordan/Arduino/sketch_jun24b"
+                        }, 
+                        "caption": "sketch_jun24b", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/jordan/Arduino/test"
+                        }, 
+                        "caption": "test", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/jordan/Arduino/testAES"
+                        }, 
+                        "caption": "testAES", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/jordan/Arduino/testSMS"
+                        }, 
+                        "caption": "testSMS", 
+                        "command": "open_sketch"
+                    }
+                ], 
+                "id": "sketchbook"
+            }
+        ], 
+        "id": "arduino", 
+        "mnemonic": "A"
+    }
+]
